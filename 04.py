@@ -1,0 +1,11 @@
+print(1+2424)
+a=232
+b=234
+print(a+b)
+print(a-b)
+print(a*b)
+print(a/b)
+a=59
+b=6
+print(a//b)
+print(6**6)
